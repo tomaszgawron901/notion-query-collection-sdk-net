@@ -1,0 +1,22 @@
+{
+  "collection": {
+    "id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+    "spaceId": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+  },
+  "collectionView": {
+    "id": "1d00f7d0-ec16-49d5-8387-074b4a9445d2",
+    "spaceId": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+  },
+  "loader": {
+    "type": "reducer",
+    "reducers": {
+      "collection_group_results": {
+        "type": "results",
+        "limit": 10
+      }
+    },
+    "sort": [],
+    "searchQuery": "",
+    "userTimeZone": ""
+  }
+}

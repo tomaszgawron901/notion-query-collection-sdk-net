@@ -1,0 +1,530 @@
+{
+  "result": {
+    "type": "reducer",
+    "reducerResults": {
+      "collection_group_relts": {
+        "type": "results",
+        "blockIds": [
+          "0de5ac20-d47b-4111-8ebe-704ba6300c1d",
+          "e9bf0445-62b4-4e65-9b2c-01316c2e1a7b",
+          "c004d07c-7f30-4174-a669-c4f183598b0f",
+          "5957f6b6-1232-4337-9bc6-6dd973e09df7",
+          "c5afdb0f-057c-417c-955c-e5c4c0069347",
+          "0f951f10-129f-4f76-98c4-23994a828dcc",
+          "e82118fc-570a-40a5-a89f-f80f673bf247",
+          "8547575d-50b0-4d6c-9d30-de66dc9d41d3",
+          "a54ea956-a59e-4370-9d5d-16fd7e525bd5",
+          "1dcaa8d1-c9a9-42f2-a49f-223398fc1d51"
+        ],
+        "hasMore": true
+      }
+    },
+    "sizeHint": 19
+  },
+  "recordMap": {
+    "block": {
+      "0de5ac20-d47b-4111-8ebe-704ba6300c1d": {
+        "role": "reader",
+        "value": {
+          "id": "0de5ac20-d47b-4111-8ebe-704ba6300c1d",
+          "version": 17,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Programing Language,.NET"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.8"
+              ]
+            ],
+            "title": [
+              [
+                "C#"
+              ]
+            ]
+          },
+          "created_time": 1661676542879,
+          "last_edited_time": 1661677860000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "e9bf0445-62b4-4e65-9b2c-01316c2e1a7b": {
+        "role": "reader",
+        "value": {
+          "id": "e9bf0445-62b4-4e65-9b2c-01316c2e1a7b",
+          "version": 40,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Programing Language"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.7"
+              ]
+            ],
+            "title": [
+              [
+                "JavaScript/TypeScript"
+              ]
+            ]
+          },
+          "created_time": 1661676542879,
+          "last_edited_time": 1661677860000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "c004d07c-7f30-4174-a669-c4f183598b0f": {
+        "role": "reader",
+        "value": {
+          "id": "c004d07c-7f30-4174-a669-c4f183598b0f",
+          "version": 13,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Programing Language"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.6"
+              ]
+            ],
+            "title": [
+              [
+                "Python"
+              ]
+            ]
+          },
+          "created_time": 1661676542879,
+          "last_edited_time": 1661677500000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "5957f6b6-1232-4337-9bc6-6dd973e09df7": {
+        "role": "reader",
+        "value": {
+          "id": "5957f6b6-1232-4337-9bc6-6dd973e09df7",
+          "version": 10,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Programing Language"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.5"
+              ]
+            ],
+            "title": [
+              [
+                "C++"
+              ]
+            ]
+          },
+          "created_time": 1661677200000,
+          "last_edited_time": 1661677500000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "c5afdb0f-057c-417c-955c-e5c4c0069347": {
+        "role": "reader",
+        "value": {
+          "id": "c5afdb0f-057c-417c-955c-e5c4c0069347",
+          "version": 12,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Programing Language"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.65"
+              ]
+            ],
+            "title": [
+              [
+                "Java"
+              ]
+            ]
+          },
+          "created_time": 1661677200000,
+          "last_edited_time": 1661677500000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "0f951f10-129f-4f76-98c4-23994a828dcc": {
+        "role": "reader",
+        "value": {
+          "id": "0f951f10-129f-4f76-98c4-23994a828dcc",
+          "version": 13,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Web Tool"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.8"
+              ]
+            ],
+            "title": [
+              [
+                "HTML"
+              ]
+            ]
+          },
+          "created_time": 1661677560000,
+          "last_edited_time": 1661677740000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "e82118fc-570a-40a5-a89f-f80f673bf247": {
+        "role": "reader",
+        "value": {
+          "id": "e82118fc-570a-40a5-a89f-f80f673bf247",
+          "version": 19,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Web Tool"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.75"
+              ]
+            ],
+            "title": [
+              [
+                "CSS/SASS"
+              ]
+            ]
+          },
+          "created_time": 1661677560000,
+          "last_edited_time": 1661677740000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "8547575d-50b0-4d6c-9d30-de66dc9d41d3": {
+        "role": "reader",
+        "value": {
+          "id": "8547575d-50b0-4d6c-9d30-de66dc9d41d3",
+          "version": 16,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Web Tool"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.7"
+              ]
+            ],
+            "title": [
+              [
+                "Angular"
+              ]
+            ]
+          },
+          "created_time": 1661677560000,
+          "last_edited_time": 1661677740000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "a54ea956-a59e-4370-9d5d-16fd7e525bd5": {
+        "role": "reader",
+        "value": {
+          "id": "a54ea956-a59e-4370-9d5d-16fd7e525bd5",
+          "version": 18,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Web Tool,.NET"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.7"
+              ]
+            ],
+            "title": [
+              [
+                "Blazor"
+              ]
+            ]
+          },
+          "created_time": 1661677560000,
+          "last_edited_time": 1661677740000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "1dcaa8d1-c9a9-42f2-a49f-223398fc1d51": {
+        "role": "reader",
+        "value": {
+          "id": "1dcaa8d1-c9a9-42f2-a49f-223398fc1d51",
+          "version": 14,
+          "type": "page",
+          "properties": {
+            "TUro": [
+              [
+                "Web Tool"
+              ]
+            ],
+            "lSS]": [
+              [
+                "0.2"
+              ]
+            ],
+            "title": [
+              [
+                "React"
+              ]
+            ]
+          },
+          "created_time": 1661677560000,
+          "last_edited_time": 1661677740000,
+          "parent_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "576a5841-697e-439e-94d6-c6689ccb0288": {
+        "role": "reader",
+        "value": {
+          "id": "576a5841-697e-439e-94d6-c6689ccb0288",
+          "version": 53,
+          "type": "collection_view_page",
+          "view_ids": [
+            "1d00f7d0-ec16-49d5-8387-074b4a9445d2"
+          ],
+          "collection_id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "format": {
+            "collection_pointer": {
+              "id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+              "table": "collection",
+              "spaceId": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+            }
+          },
+          "created_time": 1661676542879,
+          "last_edited_time": 1662406800000,
+          "parent_id": "dbf23deb-5898-4aaf-a569-4d6a2cd43886",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      },
+      "dbf23deb-5898-4aaf-a569-4d6a2cd43886": {
+        "role": "reader",
+        "value": {
+          "id": "dbf23deb-5898-4aaf-a569-4d6a2cd43886",
+          "version": 34,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "Portfolio"
+              ]
+            ]
+          },
+          "content": [
+            "1cc5e48a-6dd5-4580-9cf0-6c0be50ace8a",
+            "576a5841-697e-439e-94d6-c6689ccb0288"
+          ],
+          "format": {
+            "page_icon": "💼"
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "f854bed5-18cf-45ff-a203-eac282604fe9"
+            },
+            {
+              "role": "reader",
+              "type": "public_permission",
+              "added_timestamp": 1661676628887
+            }
+          ],
+          "created_time": 1661676480000,
+          "last_edited_time": 1662408960000,
+          "parent_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "f854bed5-18cf-45ff-a203-eac282604fe9",
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      }
+    },
+    "collection": {
+      "b557bc43-37c4-4a2a-9755-5138551e8b4e": {
+        "role": "reader",
+        "value": {
+          "id": "b557bc43-37c4-4a2a-9755-5138551e8b4e",
+          "version": 33,
+          "name": [
+            [
+              "Toolset"
+            ]
+          ],
+          "schema": {
+            "TUro": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                {
+                  "id": "9af065a6-e340-4533-81c8-35f445818369",
+                  "color": "yellow",
+                  "value": "Programing Language"
+                },
+                {
+                  "id": "e3dce287-c8d6-48b5-8bc5-db9b776ac16f",
+                  "color": "gray",
+                  "value": "Web Tool"
+                },
+                {
+                  "id": "3ab15aae-6837-4027-814f-44f2f53f3fc3",
+                  "color": "blue",
+                  "value": ".NET"
+                },
+                {
+                  "id": "05477271-b7b5-47ea-af33-74b4725f079c",
+                  "color": "green",
+                  "value": "Development Tool"
+                }
+              ]
+            },
+            "lSS]": {
+              "name": "Knowledge",
+              "type": "number",
+              "show_as": {
+                "type": "bar",
+                "color": "blue",
+                "maxValue": 1,
+                "showValue": true
+              },
+              "number_format": "percent"
+            },
+            "title": {
+              "name": "Name",
+              "type": "title"
+            }
+          },
+          "icon": "🧰",
+          "format": {
+            "collection_page_properties": [
+              {
+                "visible": true,
+                "property": "TUro"
+              }
+            ]
+          },
+          "parent_id": "576a5841-697e-439e-94d6-c6689ccb0288",
+          "parent_table": "block",
+          "alive": true,
+          "template_pages": [
+            "8b6064e9-6243-4157-8c1d-4b0fc60ba361"
+          ],
+          "migrated": true,
+          "space_id": "e7f78a14-0bfc-463c-ada0-a6846f57e66a"
+        }
+      }
+    },
+    "space": {
+      "e7f78a14-0bfc-463c-ada0-a6846f57e66a": {
+        "role": "none"
+      }
+    }
+  }
+}
